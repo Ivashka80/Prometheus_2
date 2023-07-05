@@ -76,6 +76,17 @@
 ### Требования к результату
 - [ ] приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
 
+### *Ответ*
+
+<details>
+
+![image](https://github.com/Ivashka80/Prometheus_2/assets/121082757/42bb01d0-c031-440e-9788-949023f9401d)
+
+![image](https://github.com/Ivashka80/Prometheus_2/assets/121082757/8ee896f3-4114-4e03-85be-25ede6482636)
+
+![image](https://github.com/Ivashka80/Prometheus_2/assets/121082757/b9159887-3bce-405e-a819-31e39f0eee51)
+
+</details>
 ---
 
 ### Задание 4* со звездочкой 
